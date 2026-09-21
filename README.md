@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vedanshsonicse24/Codes/tree/master/0014-longest-common-prefix) |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/vedanshsonicse24/Codes/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/vedanshsonicse24/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/vedanshsonicse24/Codes/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/vedanshsonicse24/Codes/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedanshsonicse24/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/vedanshsonicse24/Codes/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
