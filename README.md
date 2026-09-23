@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vedanshsonicse24/Codes/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
 | [1406-stone-game-iii](https://github.com/vedanshsonicse24/Codes/tree/master/1406-stone-game-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedanshsonicse24/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
 ## Math
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanshsonicse24/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
@@ -98,4 +101,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vedanshsonicse24/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/vedanshsonicse24/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
