@@ -57,12 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanshsonicse24/Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/vedanshsonicse24/Codes/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vedanshsonicse24/Codes/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/vedanshsonicse24/Codes/tree/master/0424-longest-repeating-character-replacement) |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
@@ -108,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
