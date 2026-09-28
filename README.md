@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vedanshsonicse24/Codes/tree/master/0014-longest-common-prefix) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanshsonicse24/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/vedanshsonicse24/Codes/tree/master/0486-predict-the-winner) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanshsonicse24/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/vedanshsonicse24/Codes/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
