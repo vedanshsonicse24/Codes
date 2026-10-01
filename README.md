@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanshsonicse24/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
+| [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vedanshsonicse24/Codes/tree/master/0486-predict-the-winner) |
 | [0643-maximum-average-subarray-i](https://github.com/vedanshsonicse24/Codes/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/vedanshsonicse24/Codes/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
@@ -146,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vedanshsonicse24/Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
