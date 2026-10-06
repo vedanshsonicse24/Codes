@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vedanshsonicse24/Codes/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanshsonicse24/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/vedanshsonicse24/Codes/tree/master/0486-predict-the-winner) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
