@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vedanshsonicse24/Codes/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vedanshsonicse24/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Trie
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Stack
 |  |
 | ------- |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
+| [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 <!---LeetCode Topics End-->
