@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vedanshsonicse24/Codes/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedanshsonicse24/Codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/vedanshsonicse24/Codes/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/vedanshsonicse24/Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/vedanshsonicse24/Codes/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/vedanshsonicse24/Codes/tree/master/0455-assign-cookies) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/vedanshsonicse24/Codes/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [0301-remove-invalid-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/vedanshsonicse24/Codes/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
