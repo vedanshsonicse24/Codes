@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vedanshsonicse24/Codes/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/vedanshsonicse24/Codes/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
+| [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/vedanshsonicse24/Codes/tree/master/1406-stone-game-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedanshsonicse24/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/vedanshsonicse24/Codes/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vedanshsonicse24/Codes/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/vedanshsonicse24/Codes/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/vedanshsonicse24/Codes/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vedanshsonicse24/Codes/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/vedanshsonicse24/Codes/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vedanshsonicse24/Codes/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Two Pointers
 |  |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vedanshsonicse24/Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
