@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vedanshsonicse24/Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedanshsonicse24/Codes/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/vedanshsonicse24/Codes/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3886-sum-of-sortable-integers](https://github.com/vedanshsonicse24/Codes/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/vedanshsonicse24/Codes/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vedanshsonicse24/Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vedanshsonicse24/Codes/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedanshsonicse24/Codes/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vedanshsonicse24/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Trie
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vedanshsonicse24/Codes/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vedanshsonicse24/Codes/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3955-valid-binary-strings-with-cost-limit](https://github.com/vedanshsonicse24/Codes/tree/master/3955-valid-binary-strings-with-cost-limit) |
 ## Algorithm X
 |  |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/vedanshsonicse24/Codes/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/vedanshsonicse24/Codes/tree/master/0226-invert-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,13 +280,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vedanshsonicse24/Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vedanshsonicse24/Codes/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/vedanshsonicse24/Codes/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
