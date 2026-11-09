@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/vedanshsonicse24/Codes/tree/master/0904-fruit-into-baskets) |
 | [1254-number-of-closed-islands](https://github.com/vedanshsonicse24/Codes/tree/master/1254-number-of-closed-islands) |
 | [1406-stone-game-iii](https://github.com/vedanshsonicse24/Codes/tree/master/1406-stone-game-iii) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vedanshsonicse24/Codes/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vedanshsonicse24/Codes/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vedanshsonicse24/Codes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vedanshsonicse24/Codes/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vedanshsonicse24/Codes/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/vedanshsonicse24/Codes/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vedanshsonicse24/Codes/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vedanshsonicse24/Codes/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -305,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vedanshsonicse24/Codes/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vedanshsonicse24/Codes/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vedanshsonicse24/Codes/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
